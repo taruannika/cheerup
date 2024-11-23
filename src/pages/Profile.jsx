@@ -42,7 +42,7 @@ function Profile() {
           }}
           className="bg-slate-950 text-white px-8 py-3 rounded-lg"
         >
-          <p>Favors you own me</p>
+          <p>Favors I own you</p>
           <p className="text-xs">you have {favors.length} favors</p>
         </button>
         <button

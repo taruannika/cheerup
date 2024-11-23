@@ -52,7 +52,7 @@ const Favor = () => {
             onClick={getFavor}
             className="px-4 py-2 bg-gray-500 rounded-lg text-white"
           >
-            Get Another Date Idea
+            Get Another Favor
           </button>
         </div>
         <div className="flex justify-center mt-4">
