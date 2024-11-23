@@ -35,8 +35,8 @@ const Favor = () => {
     <div className="container mt-20">
       <div className="flex flex-col gap-4 px-5 bg-slate-900 p-3 text-white">
         <div className="flex flex-col gap-2 items-center text-center">
-          <h1 className="text-2xl">Here is your Date Ideas!</h1>
-          <p>Lets go and have some fun</p>
+          <h1 className="text-2xl">Here is your Favors!</h1>
+          <p>Be treated like a princess, and I promise to make it happen</p>
           <p className="text-lg mt-4">{favor}</p>
         </div>
         <div className="flex justify-center gap-4 mt-4">
